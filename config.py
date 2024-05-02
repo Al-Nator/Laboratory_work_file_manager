@@ -1,0 +1,1 @@
+WORKING_DIRECTORY = r'C:\Users\malna\OneDrive\Документы\Directory'
